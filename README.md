@@ -14,7 +14,7 @@ This project was created for learning purposes to practice event handling, UI la
 - C#
 - .NET / WPF
 - XAML
-- Visual Studio 2022
+- Visual Studio 2026
 
 ## Current Status
 The project is still in an early stage, but fully functional.  
